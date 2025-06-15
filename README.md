@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abdullah SAif👋</h1>
+<h1 align="center">Hi, I'm Abdul Majid Lutfi 👋</h1>
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=03C0FF&center=true&width=500&lines=Gold+Medalist+in+BSSE;Python+Developer;Flask+Specialist;Machine+Learning+Engineer;Always+learning+new+tech!">
@@ -15,7 +15,7 @@ I’m a passionate developer focusing on machine learning and Python development
 
 <h3 align="center"> 🔥 Highlights </h3>
 
-- 🎓 *Student* BS Artificial Intelligence at Superior University (Continue)
+- 🎓 *Student* BS Data Science  at Superior University (Continue)
 - 💻 *Experienced Ai and ML* with a focus on real-time AI solutions
 - 🌱 Currently working as a *Intern and Freelancer* and exploring *AI, ML, LLMs*
 <!-- - 🏆 *HackerRank* badge holder with over *300+* solved LeetCode problems -->
@@ -23,29 +23,35 @@ I’m a passionate developer focusing on machine learning and Python development
 
 ---
 
-<h3 align="center"> 🚀 Skills & Technologies </h3>
+<h3 align="center"> 🚀 Skills & Technologies</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,bootstrap,linux,vscode,git" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,scikitlearn,django,opencv,git,linux,html,css" alt="skills" />
+</p>
+
+---
+
+<h3 align="center"> 🔧 Tools I Use </h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=anaconda,pycharm,vscode,github,linux,ubuntu,windows,linkedin" alt="tools" />
 </p>
 
 ---
 
 <h3 align="center"> 📊 GitHub Stats </h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdullahSaif-Code&show_icons=true&hide_border=true&theme=algolia&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSaif-Code&layout=compact&hide_border=true&theme=algolia&background=#050e2b" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulMajidLutfi&show_icons=true&hide_border=true&theme=algolia&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMajidLutfi&layout=compact&hide_border=true&theme=algolia&background=#050e2b" />
 </p>
 
 ---
 
-<h3 align="center"> 📊 LeetCode Stats </h3>
+<!--<h3 align="center"> 📊 LeetCode Stats </h3>
 <p align="center">
-<img height="180em" src="https://leetcode-stats.vercel.app/api?username=Abdullah-Saif&theme=mist" />
+<img height="180em" src="https://leetcode-stats.vercel.app/api?username=Abdullah-Saif&theme=mist" /> --->
   
 
 </p>
 
----
 
 <!-- <h3 align="center"> 🏆 Trophies & Achievements </h3>
 <p align="center">
@@ -54,12 +60,7 @@ I’m a passionate developer focusing on machine learning and Python development
 
 --- -->
 
-<h3 align="center"> 🔧 Tools I Use </h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda,pycharm,vscode,ps,ai,blender" alt="tools" />
-</p>
 
----
 
 <!-- <h3 align="center"> 🚀 Featured Projects </h3>
 
