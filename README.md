@@ -6,8 +6,9 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abdul-majid-lutfi-a8183a29a)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lutfimajid456@email.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-majid-lutfi-a8183a29a)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lutfimajid456@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=AbdulMajidLutfi&label=Profile+Views&color=2C9CDB&style=for-the-badge)
 
 </div>
@@ -20,7 +21,7 @@
 <tr>
 <td width="60%">
 
-I'm an **AI Engineer and Full-Stack Developer** from **Lahore, Pakistan 🇵🇰**. I build production-ready software, from LLM serving platforms to business systems, and I'm the **technical co-founder of [ITPulse](https://itpulse.tech)**.
+I'm an **AI Engineer and Full-Stack Developer** from **Lahore, Pakistan 🇵🇰**. I build production-ready software, from LLM serving platforms to business systems **.
 
 - 🔭 Building **Project Stature**, a multi-tenant LLM serving platform
 - 🏢 Running **HERP**, an HRMS/ERP system with payroll automation
@@ -94,9 +95,13 @@ I'm an **AI Engineer and Full-Stack Developer** from **Lahore, Pakistan 🇵🇰
 
 ---
 
+## 📫 Let's Connect
+
 <div align="center">
 
 **🤝 Open to collaboration on AI tools, automation, and open-source projects**
+
+[LinkedIn](https://www.linkedin.com/in/abdul-majid-lutfi-a8183a29a) · [Email](mailto:lutfimajid456@gmail.com) · [ITPulse](https://itpulse.tech)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C9CDB,50:1f3a5f,100:0d1117&height=110&section=footer" width="100%" />
 
