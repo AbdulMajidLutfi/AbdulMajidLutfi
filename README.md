@@ -16,29 +16,19 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
+I'm an **AI Engineer and Full-Stack Developer** based in Lahore, Pakistan. I design and build production-ready software, from LLM serving platforms to business systems, and I care about shipping products that are reliable, scalable, and genuinely useful.
 
-I'm an **AI Engineer and Full-Stack Developer** from **Lahore, Pakistan 🇵🇰**. I build production-ready software, from LLM serving platforms to business systems.
+<div align="center">
 
-- 🔭 Building **Project Stature**, a multi-tenant LLM serving platform
-- 🏢 Running **HERP**, an HRMS/ERP system with payroll automation
-- 🌱 Learning **tool calling, MCP, evaluation harnesses, streaming AI**
-- 💬 Ask me about **Django, FastAPI, PostgreSQL, Next.js, AI products**
-- ⚡ Fun fact: [your fun fact]
+| | |
+|:--|:--|
+| **🎯 Focus** | LLM platforms · AI products · Automation · ERP systems |
+| **🔭 Currently building** | Project Stature, a multi-tenant LLM serving platform |
+| **🏢 Currently running** | HERP, an HRMS/ERP system with payroll automation |
+| **🌱 Currently learning** | Tool calling · MCP · Evaluation harnesses · Streaming AI |
+| **💬 Ask me about** | Django · FastAPI · PostgreSQL · Next.js · AI products |
 
-</td>
-<td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbdulMajidLutfi&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github" width="100%" />
-
-</td>
-</tr>
-</table>
-
----
-
+</div>
 ## 💼 Work Experience
 
 <table>
