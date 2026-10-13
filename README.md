@@ -6,7 +6,6 @@
 
 <br/><br/>
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-majid-lutfi-a8183a29a)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lutfimajid456@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=AbdulMajidLutfi&label=Profile+Views&color=2C9CDB&style=for-the-badge)
@@ -21,12 +20,11 @@
 <tr>
 <td width="60%">
 
-I'm an **AI Engineer and Full-Stack Developer** from **Lahore, Pakistan 🇵🇰**. I build production-ready software, from LLM serving platforms to business systems **.
+I'm an **AI Engineer and Full-Stack Developer** from **Lahore, Pakistan 🇵🇰**. I build production-ready software, from LLM serving platforms to business systems.
 
 - 🔭 Building **Project Stature**, a multi-tenant LLM serving platform
 - 🏢 Running **HERP**, an HRMS/ERP system with payroll automation
 - 🌱 Learning **tool calling, MCP, evaluation harnesses, streaming AI**
-- 🎓 BS Data Science, Superior University
 - 💬 Ask me about **Django, FastAPI, PostgreSQL, Next.js, AI products**
 - ⚡ Fun fact: [your fun fact]
 
@@ -34,6 +32,52 @@ I'm an **AI Engineer and Full-Stack Developer** from **Lahore, Pakistan 🇵🇰
 <td width="40%" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AbdulMajidLutfi&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Work Experience
+
+<table>
+<tr>
+<td width="12%" align="center">🏢</td>
+<td width="63%">
+
+**Technical Co-founder** · [ITPulse](https://itpulse.tech)
+IT services company focused on AI-powered software and automation. I lead the technical side: architecture, development, and delivery.
+
+`Django` `FastAPI` `Next.js` `PostgreSQL` `LLMs`
+
+</td>
+<td width="25%" align="center">
+
+📅 [Year] – Present
+📍 Lahore, Pakistan
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education
+
+<table>
+<tr>
+<td width="12%" align="center">🎓</td>
+<td width="63%">
+
+**BS in Data Science** · Superior University
+Focus on machine learning, data analysis, and AI.
+
+</td>
+<td width="25%" align="center">
+
+📅 [Start year] – [End year or Present]
+📍 Lahore, Pakistan
 
 </td>
 </tr>
@@ -53,6 +97,17 @@ I'm an **AI Engineer and Full-Stack Developer** from **Lahore, Pakistan 🇵🇰
 | **AI / LLM** | `LangChain` · `LlamaIndex` · `ChromaDB` · `pgvector` · `Ollama` · `n8n` |
 
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🤖 **Project Stature** | Multi-tenant LLM serving platform with gateway and control plane | `FastAPI` `Django` |
+| 💬 **Pulse** | Cross-platform review intelligence | `Next.js` `Django` `PostgreSQL` |
+| 🏢 **HERP** | HRMS/ERP system with payroll automation | `Django` `DRF` `PostgreSQL` |
+| 📋 **ProjectFlow** | Project management with real-time and AI features | [add stack] |
 
 ---
 
@@ -81,17 +136,6 @@ I'm an **AI Engineer and Full-Stack Developer** from **Lahore, Pakistan 🇵🇰
 <img src="https://github-profile-trophy.vercel.app/?username=AbdulMajidLutfi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🤖 **Project Stature** | Multi-tenant LLM serving platform with gateway and control plane | `FastAPI` `Django` |
-| 💬 **Pulse** | Cross-platform review intelligence | `Next.js` `Django` `PostgreSQL` |
-| 🏢 **HERP** | HRMS/ERP system with payroll automation | `Django` `DRF` `PostgreSQL` |
-| 📋 **ProjectFlow** | Project management with real-time and AI features | [add stack] |
 
 ---
 
