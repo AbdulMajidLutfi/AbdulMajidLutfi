@@ -1,220 +1,148 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f3a5f,100:2C9CDB&height=230&section=header&text=Abdul%20Majid%20Lutfi&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=62&descSize=19" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1020,35:312E81,70:7C3AED,100:22D3EE&height=250&section=header&text=Abdul%20Majid%20Lutfi&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%2FML%20ENGINEER&descAlignY=60&descSize=17" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=2C9CDB&center=true&vCenter=true&width=850&lines=Building+Production-Oriented+AI+Systems;LLMs+%7C+RAG+%7C+NLP+%7C+Agentic+Automation;Python+%7C+Django+%7C+FastAPI+%7C+PostgreSQL;Backend+Engineering+%7C+ML+Pipelines+%7C+API+Development" alt="Technical focus animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Engineering+Intelligent+Software;LLMs+%7C+RAG+%7C+NLP+%7C+AI+Automation;Python+%7C+Django+%7C+FastAPI+%7C+PostgreSQL;From+Data+Pipelines+to+Production+AI" alt="Technical specialties" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-majid-lutfi-a8183a29a/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lutfimajid456@gmail.com)
-[![Instagram](https://img.shields.io/badge/Technoteck_Solutions-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/technotek_solutions/)
-![Profile Views](https://komarev.com/ghpvc/?username=AbdulMajidLutfi&label=Profile+Views&color=2C9CDB&style=for-the-badge)
+<a href="https://www.linkedin.com/in/abdul-majid-lutfi-a8183a29a/"><img src="https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:lutfimajid456@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.instagram.com/technotek_solutions/"><img src="https://img.shields.io/badge-TECHNOTECK_SOLUTIONS-DB2777?style=for-the-badge&logo=instagram&logoColor=white" alt="Technoteck Solutions"/></a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01` / PROFESSIONAL PROFILE
 
-I'm a **Software Developer specializing in AI/ML engineering, backend development, and LLM-powered applications**, based in Pakistan. I build software that combines machine learning, data processing, API engineering, and intelligent automation to solve practical problems.
+Software Developer focused on **AI/ML engineering, backend architecture, and LLM-powered applications**. I work across the application lifecycle, from data preprocessing and retrieval pipeline design to API development and intelligent workflow automation.
 
-My work and technical interests include designing retrieval-augmented generation (RAG) systems, developing backend services, integrating LLMs into applications, and building data-driven solutions with an emphasis on maintainability, retrieval quality, latency, and operational cost.
+My engineering interests center on building maintainable systems, improving retrieval relevance, evaluating model outputs, and optimizing inference cost and latency.
 
-- 🏢 **Current Organization:** [Technoteck Solutions](https://www.instagram.com/technotek_solutions/)
-- 🤖 **AI Engineering:** LLM integration, RAG pipelines, NLP, embeddings, and vector search
-- ⚙️ **Backend Engineering:** Python, Django, Django REST Framework, FastAPI
-- 🔄 **Automation:** Agentic workflows, tool calling, and n8n
-- 📊 **Data & ML:** Data preprocessing, feature engineering, model evaluation, and predictive analytics
-- 🎓 **Education:** BS Data Science — Superior University
-- 🎯 **Current Focus:** Building reliable AI applications and production-oriented software systems
+<div align="center">
 
----
+| `CORE DOMAIN` | `ENGINEERING FOCUS` |
+|:---|:---|
+| AI Engineering | LLM integration · RAG · Prompt Engineering |
+| Backend Systems | Django · DRF · FastAPI · REST APIs |
+| Machine Learning | NLP · Classification · Model Evaluation |
+| Intelligent Automation | Agentic Workflows · Tool Calling · n8n |
+| Data Engineering | ETL · Data Processing · PostgreSQL |
 
-## 💼 Professional Experience
+</div>
 
-### Software Developer — Technoteck Solutions
+## `02` / CURRENT EXPERIENCE
 
-[Instagram](https://www.instagram.com/technotek_solutions/)
+### Software Developer · Technoteck Solutions
 
-Working on software development with a focus on backend systems, AI-enabled applications, and automation.
+[Organization profile](https://www.instagram.com/technotek_solutions/)
 
-**Technical areas:**
+Working on software development and TTS-related work.
 
-- **Backend Development:** Python, Django, REST APIs, request validation, and service-layer architecture
-- **LLM Application Engineering:** Prompt engineering, model integration, structured outputs, and context management
-- **Retrieval-Augmented Generation:** Document ingestion, semantic chunking, embedding generation, vector retrieval, and response grounding
-- **AI Workflow Automation:** Multi-step orchestration, tool integration, and workflow design
-- **Data Engineering & ML:** Data preparation, transformation pipelines, and model evaluation
+`PYTHON` `BACKEND DEVELOPMENT` `API ENGINEERING` `AI/ML` `WORKFLOW AUTOMATION`
 
-**Current work:** TTS-related development at Technoteck Solutions.
+*Project-specific technologies and TTS responsibilities should be added after confirmation.*
 
-*The specific TTS expansion and project responsibilities can be added once the project scope is confirmed.*
+## `03` / TECHNOLOGY ECOSYSTEM
 
----
-
-## 🎓 Education
-
-**Bachelor of Science in Data Science (BS Data Science)**
-
-Superior University — Gold Campus, Pakistan
-
-Relevant areas of study:
-
-- Machine Learning and Statistical Modeling
-- Data Analytics and Visualization
-- Natural Language Processing
-- Database Systems and Data Warehousing
-- Artificial Intelligence and Predictive Analytics
-
----
-
-## 🛠️ Technical Stack
-
-### Programming Languages & Backend
+### Backend & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker&theme=dark" alt="Backend technology icons" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker&theme=dark" alt="Backend stack"/>
 </p>
 
-`Python` `Django` `Django REST Framework` `FastAPI` `REST APIs` `PostgreSQL` `Redis` `Docker`
+`Python` · `Django REST Framework` · `REST APIs` · `PostgreSQL` · `Redis` · `Docker`
 
-### Frontend & Application Development
+### AI / ML & LLM Systems
+
+`LLMs` · `RAG` · `NLP` · `Embeddings` · `Semantic Search` · `ChromaDB` · `FAISS` · `LangChain` · `Ollama` · `Scikit-learn`
+
+### Frontend & Developer Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css&theme=dark" alt="Frontend technology icons" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,git,github,vscode&theme=dark" alt="Frontend and developer tools"/>
 </p>
 
-`Next.js` `React` `TypeScript` `Tailwind CSS` `HTML5` `CSS3`
+`Next.js` · `React` · `TypeScript` · `Git` · `GitHub` · `n8n`
 
-### AI, Machine Learning & LLM Engineering
+## `04` / SELECTED ENGINEERING PROJECTS
 
-`Large Language Models (LLMs)` `Prompt Engineering` `Retrieval-Augmented Generation (RAG)` `Natural Language Processing (NLP)` `Text Classification` `Sentiment Analysis` `Embeddings` `Semantic Search` `Vector Databases` `ChromaDB` `FAISS` `LangChain` `Ollama`
+### ◈ ASK HE — RAG-Powered Brand Chatbot
 
-### Data Science & ML Engineering
+A knowledge-grounded conversational application combining vector retrieval with LLM-based response generation.
 
-`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Exploratory Data Analysis (EDA)` `Feature Engineering` `Classification Models` `Model Evaluation` `Data Visualization`
+- ChromaDB-based vector indexing and semantic retrieval
+- Multi-query retrieval and Reciprocal Rank Fusion (RRF)
+- GPT-4o-mini integration for context-aware generation
+- Streamlit conversational interface
 
-### Automation, Databases & Developer Tools
+`RAG` `CHROMADB` `RETRIEVAL OPTIMIZATION` `LLM INTEGRATION`
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" alt="Developer tools icons" />
-</p>
+### ◈ NewsBridge — Arabic News Summarization
 
-`Git` `GitHub` `VS Code` `Linux` `n8n` `SQL` `API Integration` `Workflow Orchestration`
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 ASK HE — RAG-Powered Brand Chatbot
-
-A retrieval-augmented conversational application designed to answer brand-related queries using a knowledge base and LLM-generated responses.
-
-**Technical implementation:**
-
-- Document ingestion, preprocessing, and semantic chunking
-- Vector indexing and semantic retrieval with ChromaDB
-- Multi-query retrieval to improve query coverage
-- Reciprocal Rank Fusion (RRF) for combining retrieval rankings
-- GPT-4o-mini integration for context-grounded response generation
-- Streamlit-based conversational interface
-
-**Stack:** `Python` `ChromaDB` `RAG` `GPT-4o-mini` `Streamlit` `Information Retrieval`
-
-### 📰 NewsBridge — Arabic News Summarization
-
-An NLP application for collecting Arabic news content and generating concise summaries through a sequence-to-sequence text summarization workflow.
-
-**Technical implementation:**
+An NLP application for extracting news content and generating concise summaries.
 
 - Web scraping and text preprocessing
-- NLP pipeline development
-- Sequence-to-sequence summarization
-- REST API integration and application serving
+- Sequence-to-sequence summarization workflow
+- Flask application and REST API integration
 
-**Stack:** `Python` `NLP` `Seq2Seq` `Flask` `REST APIs` `Web Scraping`
+`PYTHON` `NLP` `SEQ2SEQ` `FLASK`
 
-### 📈 Movie Review Sentiment Analysis
+### ◈ Movie Review Sentiment Analysis
 
-A text classification project for identifying sentiment in a large-scale movie review dataset.
-
-**Technical implementation:**
+A large-scale text classification project using more than 1.4 million reviews.
 
 - Text preprocessing and feature extraction
 - Logistic regression classification
-- Model evaluation and error analysis
-- Comparative analysis of predicted and actual sentiment labels
+- Predictive evaluation and error analysis
 
-**Dataset scale:** 1.4M+ reviews
+`SCIKIT-LEARN` `NLP` `CLASSIFICATION`
 
-**Stack:** `Python` `Scikit-learn` `NLP` `Logistic Regression` `Text Classification`
+### ◈ IntelliRisk Health — Healthcare ML Research
 
-### 🏥 IntelliRisk Health — Healthcare ML Research
+A healthcare analytics project focused on predictive modeling and comparative evaluation of machine learning approaches.
 
-A healthcare-focused machine learning project exploring predictive modeling using medical appointment and health-related datasets.
+- Exploratory data analysis and data quality checks
+- Feature engineering and classification
+- Model comparison and evaluation
 
-**Technical focus:**
+`HEALTHCARE ANALYTICS` `MACHINE LEARNING` `DATA SCIENCE`
 
-- Exploratory data analysis and data quality assessment
-- Missing-value analysis and feature engineering
-- Predictive classification and model evaluation
-- Comparison of machine learning and deep learning approaches
-
-**Stack:** `Python` `Pandas` `Scikit-learn` `Machine Learning` `Healthcare Analytics`
-
----
-
-## 🧠 Engineering Interests
-
-- **RAG Optimization:** Retrieval precision, reranking, chunking strategies, and context relevance
-- **LLM Reliability:** Hallucination reduction, grounded generation, evaluation datasets, and output validation
-- **Agentic Systems:** Tool calling, multi-step reasoning workflows, and controlled automation
-- **ML Engineering:** Model serving, inference APIs, reproducible pipelines, and evaluation
-- **Backend Architecture:** Modular services, API design, database integrity, and maintainable code
-- **AI Cost Optimization:** Local inference, open-source models, quantization, and efficient resource utilization
-
----
-
-## 📊 GitHub Analytics
+## `05` / GITHUB METRICS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AbdulMajidLutfi&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AbdulMajidLutfi&show_icons=true&hide_border=true&bg_color=0B1020&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github" alt="GitHub statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMajidLutfi&layout=donut&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used programming languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMajidLutfi&layout=donut&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=E2E8F0&langs_count=8" alt="Programming languages"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=AbdulMajidLutfi&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=AbdulMajidLutfi&hide_border=true&background=0B1020&ring=7C3AED&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak statistics"/>
 
-### 📈 Contribution Activity
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulMajidLutfi&bg_color=0d1117&color=2C9CDB&line=2C9CDB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="GitHub contribution activity graph" />
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulMajidLutfi/AbdulMajidLutfi/output/github-snake-dark.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AbdulMajidLutfi/AbdulMajidLutfi/output/github-snake.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulMajidLutfi&bg_color=0B1020&color=22D3EE&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution graph"/>
 
 </div>
 
----
+## `06` / EDUCATION
 
-## 📫 Let's Connect
+**BS Data Science**  
+Superior University · Gold Campus, Pakistan
+
+Focus areas: Machine Learning, Statistical Analysis, Data Engineering, NLP, and Predictive Modeling.
+
+## `07` / CONNECT
 
 <div align="center">
 
-**Interested in AI engineering, backend systems, RAG applications, and intelligent automation.**
+**Building reliable software. Engineering practical AI.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul_Majid_Lutfi-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdul-majid-lutfi-a8183a29a/)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=flat-square&logo=gmail)](mailto:lutfimajid456@gmail.com)
-[![Technoteck Solutions](https://img.shields.io/badge/Organization-Technoteck_Solutions-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/technotek_solutions/)
+<a href="https://www.linkedin.com/in/abdul-majid-lutfi-a8183a29a/"><img src="https://img.shields.io/badge/Let's_Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="mailto:lutfimajid456@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email"/></a>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C9CDB,50:1f3a5f,100:0d1117&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,40:7C3AED,75:312E81,100:0B1020&height=120&section=footer" width="100%" />
 
 </div>
