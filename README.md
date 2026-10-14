@@ -1,13 +1,14 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f3a5f,100:2C9CDB&height=230&section=header&text=Abdul%20Majid%20Lutfi&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=62&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f3a5f,100:2C9CDB&height=230&section=header&text=Abdul%20Majid%20Lutfi&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=62&descSize=19" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2C9CDB&center=true&vCenter=true&width=700&lines=Building+AI+products+end+to+end+%F0%9F%9A%80;LLM+Platforms+%7C+Django+%7C+FastAPI+%7C+Next.js;Technical+Co-founder+at+ITPulse;Turning+data+into+intelligent+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=2C9CDB&center=true&vCenter=true&width=850&lines=Building+Production-Oriented+AI+Systems;LLMs+%7C+RAG+%7C+NLP+%7C+Agentic+Automation;Python+%7C+Django+%7C+FastAPI+%7C+PostgreSQL;Backend+Engineering+%7C+ML+Pipelines+%7C+API+Development" alt="Technical focus animation" />
 
-<br/><br/>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-majid-lutfi-a8183a29a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-majid-lutfi-a8183a29a/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lutfimajid456@gmail.com)
+[![Instagram](https://img.shields.io/badge/Technoteck_Solutions-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/technotek_solutions/)
 ![Profile Views](https://komarev.com/ghpvc/?username=AbdulMajidLutfi&label=Profile+Views&color=2C9CDB&style=for-the-badge)
 
 </div>
@@ -16,88 +17,162 @@
 
 ## 👨‍💻 About Me
 
-I'm an **AI Engineer and Full-Stack Developer** based in Lahore, Pakistan. I design and build production-ready software, from LLM serving platforms to business systems, and I care about shipping products that are reliable, scalable, and genuinely useful.
+I'm a **Software Developer specializing in AI/ML engineering, backend development, and LLM-powered applications**, based in Pakistan. I build software that combines machine learning, data processing, API engineering, and intelligent automation to solve practical problems.
 
-<div align="center">
+My work and technical interests include designing retrieval-augmented generation (RAG) systems, developing backend services, integrating LLMs into applications, and building data-driven solutions with an emphasis on maintainability, retrieval quality, latency, and operational cost.
 
-| | |
-|:--|:--|
-| **🎯 Focus** | LLM platforms · AI products · Automation · ERP systems |
-| **🔭 Currently building** | Project Stature, a multi-tenant LLM serving platform |
-| **🏢 Currently running** | HERP, an HRMS/ERP system with payroll automation |
-| **🌱 Currently learning** | Tool calling · MCP · Evaluation harnesses · Streaming AI |
-| **💬 Ask me about** | Django · FastAPI · PostgreSQL · Next.js · AI products |
+- 🏢 **Current Organization:** [Technoteck Solutions](https://www.instagram.com/technotek_solutions/)
+- 🤖 **AI Engineering:** LLM integration, RAG pipelines, NLP, embeddings, and vector search
+- ⚙️ **Backend Engineering:** Python, Django, Django REST Framework, FastAPI
+- 🔄 **Automation:** Agentic workflows, tool calling, and n8n
+- 📊 **Data & ML:** Data preprocessing, feature engineering, model evaluation, and predictive analytics
+- 🎓 **Education:** BS Data Science — Superior University
+- 🎯 **Current Focus:** Building reliable AI applications and production-oriented software systems
 
-</div>
-## 💼 Work Experience
+---
 
-<table>
-<tr>
-<td width="12%" align="center">🏢</td>
-<td width="63%">
+## 💼 Professional Experience
 
-**Technical Co-founder** · [ITPulse](https://itpulse.tech)
-IT services company focused on AI-powered software and automation. I lead the technical side: architecture, development, and delivery.
+### Software Developer — Technoteck Solutions
 
-`Django` `FastAPI` `Next.js` `PostgreSQL` `LLMs`
+[Instagram](https://www.instagram.com/technotek_solutions/)
 
-</td>
-<td width="25%" align="center">
+Working on software development with a focus on backend systems, AI-enabled applications, and automation.
 
-📅 [Year] – Present
-📍 Lahore, Pakistan
+**Technical areas:**
 
-</td>
-</tr>
-</table>
+- **Backend Development:** Python, Django, REST APIs, request validation, and service-layer architecture
+- **LLM Application Engineering:** Prompt engineering, model integration, structured outputs, and context management
+- **Retrieval-Augmented Generation:** Document ingestion, semantic chunking, embedding generation, vector retrieval, and response grounding
+- **AI Workflow Automation:** Multi-step orchestration, tool integration, and workflow design
+- **Data Engineering & ML:** Data preparation, transformation pipelines, and model evaluation
+
+**Current work:** TTS-related development at Technoteck Solutions.
+
+*The specific TTS expansion and project responsibilities can be added once the project scope is confirmed.*
 
 ---
 
 ## 🎓 Education
 
-<table>
-<tr>
-<td width="12%" align="center">🎓</td>
-<td width="63%">
+**Bachelor of Science in Data Science (BS Data Science)**
 
-**BS in Data Science** · Superior University
-Focus on machine learning, data analysis, and AI.
+Superior University — Gold Campus, Pakistan
 
-</td>
-<td width="25%" align="center">
+Relevant areas of study:
 
-📅 [Start year] – [End year or Present]
-📍 Lahore, Pakistan
-
-</td>
-</tr>
-</table>
+- Machine Learning and Statistical Modeling
+- Data Analytics and Visualization
+- Natural Language Processing
+- Database Systems and Data Warehousing
+- Artificial Intelligence and Predictive Analytics
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack
 
-<div align="center">
+### Programming Languages & Backend
 
-| Area | Technologies |
-|---|---|
-| **Backend** | <img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,redis,docker&theme=dark" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vercel&theme=dark" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" /> |
-| **AI / LLM** | `LangChain` · `LlamaIndex` · `ChromaDB` · `pgvector` · `Ollama` · `n8n` |
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker&theme=dark" alt="Backend technology icons" />
+</p>
 
-</div>
+`Python` `Django` `Django REST Framework` `FastAPI` `REST APIs` `PostgreSQL` `Redis` `Docker`
+
+### Frontend & Application Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css&theme=dark" alt="Frontend technology icons" />
+</p>
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `HTML5` `CSS3`
+
+### AI, Machine Learning & LLM Engineering
+
+`Large Language Models (LLMs)` `Prompt Engineering` `Retrieval-Augmented Generation (RAG)` `Natural Language Processing (NLP)` `Text Classification` `Sentiment Analysis` `Embeddings` `Semantic Search` `Vector Databases` `ChromaDB` `FAISS` `LangChain` `Ollama`
+
+### Data Science & ML Engineering
+
+`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Exploratory Data Analysis (EDA)` `Feature Engineering` `Classification Models` `Model Evaluation` `Data Visualization`
+
+### Automation, Databases & Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" alt="Developer tools icons" />
+</p>
+
+`Git` `GitHub` `VS Code` `Linux` `n8n` `SQL` `API Integration` `Workflow Orchestration`
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🤖 **Project Stature** | Multi-tenant LLM serving platform with gateway and control plane | `FastAPI` `Django` |
-| 💬 **Pulse** | Cross-platform review intelligence | `Next.js` `Django` `PostgreSQL` |
-| 🏢 **HERP** | HRMS/ERP system with payroll automation | `Django` `DRF` `PostgreSQL` |
-| 📋 **ProjectFlow** | Project management with real-time and AI features | [add stack] |
+### 🤖 ASK HE — RAG-Powered Brand Chatbot
+
+A retrieval-augmented conversational application designed to answer brand-related queries using a knowledge base and LLM-generated responses.
+
+**Technical implementation:**
+
+- Document ingestion, preprocessing, and semantic chunking
+- Vector indexing and semantic retrieval with ChromaDB
+- Multi-query retrieval to improve query coverage
+- Reciprocal Rank Fusion (RRF) for combining retrieval rankings
+- GPT-4o-mini integration for context-grounded response generation
+- Streamlit-based conversational interface
+
+**Stack:** `Python` `ChromaDB` `RAG` `GPT-4o-mini` `Streamlit` `Information Retrieval`
+
+### 📰 NewsBridge — Arabic News Summarization
+
+An NLP application for collecting Arabic news content and generating concise summaries through a sequence-to-sequence text summarization workflow.
+
+**Technical implementation:**
+
+- Web scraping and text preprocessing
+- NLP pipeline development
+- Sequence-to-sequence summarization
+- REST API integration and application serving
+
+**Stack:** `Python` `NLP` `Seq2Seq` `Flask` `REST APIs` `Web Scraping`
+
+### 📈 Movie Review Sentiment Analysis
+
+A text classification project for identifying sentiment in a large-scale movie review dataset.
+
+**Technical implementation:**
+
+- Text preprocessing and feature extraction
+- Logistic regression classification
+- Model evaluation and error analysis
+- Comparative analysis of predicted and actual sentiment labels
+
+**Dataset scale:** 1.4M+ reviews
+
+**Stack:** `Python` `Scikit-learn` `NLP` `Logistic Regression` `Text Classification`
+
+### 🏥 IntelliRisk Health — Healthcare ML Research
+
+A healthcare-focused machine learning project exploring predictive modeling using medical appointment and health-related datasets.
+
+**Technical focus:**
+
+- Exploratory data analysis and data quality assessment
+- Missing-value analysis and feature engineering
+- Predictive classification and model evaluation
+- Comparison of machine learning and deep learning approaches
+
+**Stack:** `Python` `Pandas` `Scikit-learn` `Machine Learning` `Healthcare Analytics`
+
+---
+
+## 🧠 Engineering Interests
+
+- **RAG Optimization:** Retrieval precision, reranking, chunking strategies, and context relevance
+- **LLM Reliability:** Hallucination reduction, grounded generation, evaluation datasets, and output validation
+- **Agentic Systems:** Tool calling, multi-step reasoning workflows, and controlled automation
+- **ML Engineering:** Model serving, inference APIs, reproducible pipelines, and evaluation
+- **Backend Architecture:** Modular services, API design, database integrity, and maintainable code
+- **AI Cost Optimization:** Local inference, open-source models, quantization, and efficient resource utilization
 
 ---
 
@@ -105,25 +180,24 @@ Focus on machine learning, data analysis, and AI.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMajidLutfi&layout=donut&hide_border=true&theme=tokyonight&langs_count=8" />
-<img height="180" src="https://streak-stats.demolab.com/?user=AbdulMajidLutfi&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AbdulMajidLutfi&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMajidLutfi&layout=donut&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used programming languages" />
 
 <br/>
 
+<img src="https://streak-stats.demolab.com/?user=AbdulMajidLutfi&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
 ### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulMajidLutfi&bg_color=0d1117&color=2C9CDB&line=2C9CDB&point=FFFFFF&area=true&area_color=2C9CDB&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdulMajidLutfi&bg_color=0d1117&color=2C9CDB&line=2C9CDB&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="GitHub contribution activity graph" />
 
 ### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdulMajidLutfi/AbdulMajidLutfi/output/github-snake-dark.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/AbdulMajidLutfi/AbdulMajidLutfi/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AbdulMajidLutfi/AbdulMajidLutfi/output/github-snake.svg" />
 </picture>
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbdulMajidLutfi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 
 </div>
 
@@ -133,9 +207,13 @@ Focus on machine learning, data analysis, and AI.
 
 <div align="center">
 
-**🤝 Open to collaboration on AI tools, automation, and open-source projects**
+**Interested in AI engineering, backend systems, RAG applications, and intelligent automation.**
 
-[LinkedIn](https://www.linkedin.com/in/abdul-majid-lutfi-a8183a29a) · [Email](mailto:lutfimajid456@gmail.com) · [ITPulse](https://itpulse.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul_Majid_Lutfi-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/abdul-majid-lutfi-a8183a29a/)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-D14836?style=flat-square&logo=gmail)](mailto:lutfimajid456@gmail.com)
+[![Technoteck Solutions](https://img.shields.io/badge/Organization-Technoteck_Solutions-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/technotek_solutions/)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C9CDB,50:1f3a5f,100:0d1117&height=110&section=footer" width="100%" />
 
