@@ -83,7 +83,7 @@ evaluating model outputs, and optimizing inference cost and latency.</sub>
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3>◈ ASK HE</h3>
+<h3>◈ ASK ZARA </h3>
 <sub><b>RAG-POWERED BRAND CHATBOT</b></sub>
 <p>A knowledge-grounded chatbot combining vector retrieval with LLM-based response generation.</p>
 <ul>
